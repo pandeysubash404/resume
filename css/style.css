@@ -1,0 +1,21 @@
+.imge{
+    border:2px greeen solid;
+}
+main{
+    margin-top:10%;
+}
+
+main,div {
+    display: block;
+   
+}
+.text-center {
+    text-align: center!important;
+}
+#title{
+    font-weight: 600;
+}
+#blue{
+    color:blue;
+    cursor: pointer;
+}
