@@ -68,7 +68,7 @@ if ($result->num_rows > 0) {
   </div>
   <button type="submit" name="change" class="btn btn-primary">Change</button>
 </form>
-<small class="text-muted">By clicking Change, you going to logout.</small>
+<small class="text-muted">By clicking Change, you can Logout!.</small>
 <?php }else{
     echo "Not Found data.";
 }
