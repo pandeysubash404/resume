@@ -14,7 +14,7 @@ CREATE TABLE users (
 -- DROP TABLE users;
 /*
 INSERT INTO users VALUES 
-(1,"Subash Pandey","pandeysubash404@gmail.com","subash");
+(1,"Subash Pandey","pandeysubash404@gmail.com","d1e6989494884caca3c994c88b050cd8");
 SELECT * FROM users;
 */
 CREATE TABLE personal (
